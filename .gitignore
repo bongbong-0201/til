@@ -1,0 +1,17 @@
+# 빌드 결과물
+*.o
+*.obj
+*.exe
+*.out
+a.out
+build/
+cmake-build-*/
+
+# CLion / JetBrains
+.idea/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
