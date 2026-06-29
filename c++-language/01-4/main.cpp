@@ -1,0 +1,8 @@
+#include <iostream>
+#include "01-4.h"
+
+int main(void) {
+    BestComImpl::SimpleFunc();
+    ProgComImpl::SimpleFunc();
+    return 0;
+}
